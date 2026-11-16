@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>compositor-protocol</title>
+  <subtitle>Official architecture documentation and production specifications for compositor-protocol</subtitle>
+  <link href="https://Shijiuwei.github.io/compositor-protocol/feed.xml" rel="self"/>
+  <id>https://Shijiuwei.github.io/compositor-protocol/</id>
+  <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+  <entry>
+    <title>Compositor-mirror-635 分布式架构设计与拓扑调度规约</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/architecture.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/architecture.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>1. 去中心化弹性伸缩：支持大规模节点并发接入与轻量化状态同步。</summary>
+  </entry>
+  <entry>
+    <title>Brush rendering and 4K benchmark</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/brush-performance.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/brush-performance.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>The brush now sweeps a continuous round tip along the smoothed pointer path with a Metal compute kernel. Each changed 256 × 256 tile is p...</summary>
+  </entry>
+  <entry>
+    <title>Compositor project format, versions 1–11</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/project-format.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/project-format.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>A .comp file is a macOS document package containing manifest.json and an images/ directory of &lt;layer UUID&gt;.png assets.</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 核心通信协议与数据同步技术规范</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specifications.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specifications.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>- 传输层默认启用 TLS 1.3 协议通道与 AES-256 加密。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v1)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v1.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v1.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v10)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v10.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v10.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v11)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v11.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v11.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v12)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v12.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v12.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v13)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v13.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v13.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v14)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v14.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v14.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v15)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v15.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v15.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v16)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v16.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v16.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v17)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v17.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v17.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v18)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v18.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v18.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+  <entry>
+    <title>Compositor-mirror-635 架构升级与技术规约 (v19)</title>
+    <link href="https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v19.html"/>
+    <id>https://Shijiuwei.github.io/compositor-protocol/docs/specs-update-v19.html</id>
+    <updated>2026-11-16T19:41:29.575333500+00:00</updated>
+    <summary>针对大规模网络请求调度，系统实施了毫秒级负载感知与去中心化可信存活探测。</summary>
+  </entry>
+</feed>
